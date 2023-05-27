@@ -24,10 +24,8 @@ fs.readFile('./data.json', 'utf8', async(err, jsonString) => {
     // Iterate over each data entry and search in a new tab
     for (let i = 0; i < data.length; i++) {
       const entry = data[i];
-      setInterval(async()=>{
         await searchDataInNewTab(entry.Company)
         .catch((err) => console.error(`Error searching data ${entry}:`, err));
-      },5000)
     }
   } catch (err) {
     console.error('Error parsing JSON:', err);
