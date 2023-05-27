@@ -1,0 +1,538 @@
+[
+
+    {
+      "Company": "Starburst Data"
+    },
+    {
+      "Company": "Drata"
+    },
+    {
+      "Company": "SmartHop"
+    },
+    {
+      "Company": "Kodiak Robotics"
+    },
+    {
+      "Company": "Wonder"
+    },
+    {
+      "Company": "Isovalent"
+    },
+    {
+      "Company": "Newfront Insurance"
+    },
+    {
+      "Company": "JupiterOne"
+    },
+    {
+      "Company": "VergeSense"
+    },
+    {
+      "Company": "Material Bank"
+    },
+    {
+      "Company": "Lunar Energy"
+    },
+    {
+      "Company": "Curated"
+    },
+    {
+      "Company": "Stellar Health"
+    },
+    {
+      "Company": "SiMa.ai"
+    },
+    {
+      "Company": "Privacera"
+    },
+    {
+      "Company": "Monarch Tractor"
+    },
+    {
+      "Company": "Gem"
+    },
+    {
+      "Company": "Valon Mortgage"
+    },
+    {
+      "Company": "Front"
+    },
+    {
+      "Company": "Sibros"
+    },
+    {
+      "Company": "Pachama"
+    },
+    {
+      "Company": "AgentSync"
+    },
+    {
+      "Company": "Metagenomi"
+    },
+    {
+      "Company": "Contentstack"
+    },
+    {
+      "Company": "Woebot Health"
+    },
+    {
+      "Company": "TaxBit"
+    },
+    {
+      "Company": "Mattermost"
+    },
+    {
+      "Company": "Transcarent"
+    },
+    {
+      "Company": "Observe"
+    },
+    {
+      "Company": "Moveworks"
+    },
+    {
+      "Company": "Persona"
+    },
+    {
+      "Company": "Luminous Computing"
+    },
+    {
+      "Company": "Strive Health"
+    },
+    {
+      "Company": "Merge"
+    },
+    {
+      "Company": "Chameleon Collective"
+    },
+    {
+      "Company": "Zuci Systems"
+    },
+    {
+      "Company": "Salt Security"
+    },
+    {
+      "Company": "Deel"
+    },
+    {
+      "Company": "Vendr"
+    },
+    {
+      "Company": "Secureframe"
+    },
+    {
+      "Company": "LambdaTest"
+    },
+    {
+      "Company": "Pie Insurance"
+    },
+    {
+      "Company": "Pilot"
+    },
+    {
+      "Company": "Dbt Labs"
+    },
+    {
+      "Company": "Productiv"
+    },
+    {
+      "Company": "Step"
+    },
+    {
+      "Company": "SWORD Health"
+    },
+    {
+      "Company": "Nice Healthcare"
+    },
+    {
+      "Company": "Zippin"
+    },
+    {
+      "Company": "Owkin"
+    },
+    {
+      "Company": "Ava Labs"
+    },
+    {
+      "Company": "Tecton"
+    },
+    {
+      "Company": "Sidecar Health"
+    },
+    {
+      "Company": "Odetta"
+    },
+    {
+      "Company": "Covr Financial Technologies"
+    },
+    {
+      "Company": "Endera"
+    },
+    {
+      "Company": "Enable"
+    },
+    {
+      "Company": "Nayya"
+    },
+    {
+      "Company": "Tackle.io"
+    },
+    {
+      "Company": "Phantom Auto"
+    },
+    {
+      "Company": "Synctera"
+    },
+    {
+      "Company": "Misfits Market"
+    },
+    {
+      "Company": "Embrace"
+    },
+    {
+      "Company": "Island"
+    },
+    {
+      "Company": "Redwood Materials"
+    },
+    {
+      "Company": "OpenSpace"
+    },
+    {
+      "Company": "Ayar Labs"
+    },
+    {
+      "Company": "ConverseNow"
+    },
+    {
+      "Company": "Sunbit"
+    },
+    {
+      "Company": "iCapital"
+    },
+    {
+      "Company": "Collective"
+    },
+    {
+      "Company": "TekRevol"
+    },
+    {
+      "Company": "Nova Credit"
+    },
+    {
+      "Company": "Unstoppable Domains"
+    },
+    {
+      "Company": "Upshift"
+    },
+    {
+      "Company": "Glean"
+    },
+    {
+      "Company": "Logiwa"
+    },
+    {
+      "Company": "Emerge"
+    },
+    {
+      "Company": "Beyond Identity"
+    },
+    {
+      "Company": "Turing AI"
+    },
+    {
+      "Company": "Cedar"
+    },
+    {
+      "Company": "Dover"
+    },
+    {
+      "Company": "Tovala"
+    },
+    {
+      "Company": "Nuro"
+    },
+    {
+      "Company": "Crossbeam"
+    },
+    {
+      "Company": "Pave"
+    },
+    {
+      "Company": "Upgrade"
+    },
+    {
+      "Company": "Lovevery"
+    },
+    {
+      "Company": "Talos"
+    },
+    {
+      "Company": "Wing Assistant"
+    },
+    {
+      "Company": "Prefect"
+    },
+    {
+      "Company": "Brooklinen"
+    },
+    {
+      "Company": "Vouch Insurance"
+    },
+    {
+      "Company": "RentSpree"
+    },
+    {
+      "Company": "Brex"
+    },
+    {
+      "Company": "Center"
+    },
+    {
+      "Company": "Lumu"
+    },
+    {
+      "Company": "Kinsta"
+    },
+    {
+      "Company": "OpenAI"
+    },
+    {
+      "Company": "Vivun"
+    },
+    {
+      "Company": "Labelbox"
+    },
+    {
+      "Company": "Torch"
+    },
+    {
+      "Company": "Eden Health"
+    },
+    {
+      "Company": "Fireblocks "
+    },
+    {
+      "Company": "Vanta"
+    },
+    {
+      "Company": "Ad Hoc"
+    },
+    {
+      "Company": "Boll & Branch"
+    },
+    {
+      "Company": "Wrapbook"
+    },
+    {
+      "Company": "ChartHop"
+    },
+    {
+      "Company": "Bravado"
+    },
+    {
+      "Company": "Argyle"
+    },
+    {
+      "Company": "Wugen"
+    },
+    {
+      "Company": "Titan (USA)"
+    },
+    {
+      "Company": "Lyra Health"
+    },
+    {
+      "Company": "Connectbase"
+    },
+    {
+      "Company": "Unit21"
+    },
+    {
+      "Company": "Embark"
+    },
+    {
+      "Company": "Jerry"
+    },
+    {
+      "Company": "Airbase"
+    },
+    {
+      "Company": "TIFIN"
+    },
+    {
+      "Company": "Valor PayTech"
+    },
+    {
+      "Company": "Ermetic"
+    },
+    {
+      "Company": "Wheel"
+    },
+    {
+      "Company": "Capital Rx"
+    },
+    {
+      "Company": "ICON Technology"
+    },
+    {
+      "Company": "MasterClass"
+    },
+    {
+      "Company": "Prisma"
+    },
+    {
+      "Company": "MoonPay"
+    },
+    {
+      "Company": "NTWRK"
+    },
+    {
+      "Company": "Owl Labs"
+    },
+    {
+      "Company": "KoBold Metals"
+    },
+    {
+      "Company": "Humu"
+    },
+    {
+      "Company": "Intellisense Systems"
+    },
+    {
+      "Company": "DevRev"
+    },
+    {
+      "Company": "Hinge Health"
+    },
+    {
+      "Company": "Andor Health"
+    },
+    {
+      "Company": "KUDO"
+    },
+    {
+      "Company": "Paytient"
+    },
+    {
+      "Company": "Imubit"
+    },
+    {
+      "Company": "Hazel Health"
+    },
+    {
+      "Company": "Otter.ai"
+    },
+    {
+      "Company": "Avail Car Sharing"
+    },
+    {
+      "Company": "Wasabi Technologies"
+    },
+    {
+      "Company": "Laika"
+    },
+    {
+      "Company": "Guru"
+    },
+    {
+      "Company": "Facet Wealth"
+    },
+    {
+      "Company": "Forward"
+    },
+    {
+      "Company": "Branch International"
+    },
+    {
+      "Company": "Alloy"
+    },
+    {
+      "Company": "Gong"
+    },
+    {
+      "Company": "CertiK"
+    },
+    {
+      "Company": "Cosm"
+    },
+    {
+      "Company": "Function of Beauty"
+    },
+    {
+      "Company": "Nextbite"
+    },
+    {
+      "Company": "TakeOff"
+    },
+    {
+      "Company": "Housecall Pro"
+    },
+    {
+      "Company": "Dewpoint Therapeutics"
+    },
+    {
+      "Company": "Kafene"
+    },
+    {
+      "Company": "Bolay Enterprises"
+    },
+    {
+      "Company": "SOLO"
+    },
+    {
+      "Company": "Slingshot Aerospace"
+    },
+    {
+      "Company": "Well"
+    },
+    {
+      "Company": "Airspace"
+    },
+    {
+      "Company": "Quantum Metric"
+    },
+    {
+      "Company": "Visible Alpha"
+    },
+    {
+      "Company": "Gopuff"
+    },
+    {
+      "Company": "Cart.com"
+    },
+    {
+      "Company": "SurveySparrow"
+    },
+    {
+      "Company": "TaskHuman"
+    },
+    {
+      "Company": "Alt"
+    },
+    {
+      "Company": "Trainual"
+    },
+    {
+      "Company": "Rec Room"
+    },
+    {
+      "Company": "CareRev"
+    },
+    {
+      "Company": "Grafana Labs"
+    },
+    {
+      "Company": "Howdy"
+    },
+    {
+      "Company": "Shopmonkey"
+    },
+    {
+      "Company": "Vestwell"
+    },
+    {
+      "Company": "Sensor Tower"
+    }
+  
+  ]
